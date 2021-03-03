@@ -12,7 +12,7 @@ This is **NOT** an original idea by me. I used [CodePulse](https://www.youtube.c
 - [x] Parser
 - [x] Interpreter
 - [x] Power Operators
-- [ ] Variables 
+- [x] Variables 
 - [ ] Comparisons and logical operators
 - [ ] IF statements
 - [ ] FOR and WHILE statements
